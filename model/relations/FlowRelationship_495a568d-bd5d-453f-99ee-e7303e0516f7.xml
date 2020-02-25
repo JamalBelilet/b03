@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recrute"
+    id="495a568d-bd5d-453f-99ee-e7303e0516f7">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ac8090cf-8b42-4915-b58e-5b619d465c3f.xml#ac8090cf-8b42-4915-b58e-5b619d465c3f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fae9812c-dcc1-4c79-bdca-21ff7b8494c2.xml#fae9812c-dcc1-4c79-bdca-21ff7b8494c2"/>
+</archimate:FlowRelationship>
